@@ -1,4 +1,4 @@
-//Seu JavaScript de validação aqui
+
 function validarDatos(event){
     event.preventDefault()
     var error = document.querySelector('#error')
